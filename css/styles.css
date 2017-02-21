@@ -1,0 +1,7 @@
+p {
+  display: none;
+}
+
+form > p:first-of-type {
+  display: block;
+}
